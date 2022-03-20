@@ -13,7 +13,7 @@ Here is the list of published articles:
 <p>9. 5 Powerful Cryptography Libraries To Enhance Your App’s Security! (https://blogs.embarcadero.com/5-powerful-cryptography-libraries-to-enhance-your-apps-security/)
 <p>10. 6 Easy Ways to Connect to the Top Databases You Should Know (https://blogs.embarcadero.com/6-easy-ways-to-connect-to-the-top-databases-you-should-know/)
 <p>11. 7 Ways To Interact With Internet Protocols You Should Know (https://blogs.embarcadero.com/7-ways-to-interact-with-internet-protocols-you-should-know/)
-<p>12. 6 Simple Ways to Generate Dummy Data for Your Windows Apps (https://blogs.embarcadero.com/6-simple-ways-to-generate-dummy-data-for-your-windows-apps/)  
+<p>12. [6 Simple Ways to Generate Dummy Data for Your Windows Apps](https://blogs.embarcadero.com/6-simple-ways-to-generate-dummy-data-for-your-windows-apps/)  
 <p>
   
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi) and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
