@@ -34,5 +34,7 @@ Here is the list of published articles:
 15. [Learn To Build Python GUI For These Powerful REST Services](https://pythongui.org/learn-to-build-python-gui-for-these-powerful-rest-services/)
 
 16. [Learn To Build A GUI For These 10 Ultimate Python AI Libraries](https://pythongui.org/learn-to-build-a-gui-for-these-10-ultimate-python-ai-libraries/) 
+  
+17. [What Is The Best Web Scraping Library For Development On Windows?](https://blogs.embarcadero.com/what-is-the-best-web-scraping-library-for-development-on-windows/)
 
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi) and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
