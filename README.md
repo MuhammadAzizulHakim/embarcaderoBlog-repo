@@ -26,5 +26,7 @@ Here is the list of published articles:
 11. [7 Ways To Interact With Internet Protocols You Should Know](https://blogs.embarcadero.com/7-ways-to-interact-with-internet-protocols-you-should-know/)
 
 12. [6 Simple Ways to Generate Dummy Data for Your Windows Apps](https://blogs.embarcadero.com/6-simple-ways-to-generate-dummy-data-for-your-windows-apps/)
+  
+13. [Hands-On Bioinformatics With These 6 Powerful Python Libs](https://pythongui.org/hands-on-bioinformatics-with-these-6-powerful-python-libs/)
 
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi) and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
