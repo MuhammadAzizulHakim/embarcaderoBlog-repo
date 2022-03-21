@@ -28,5 +28,11 @@ Here is the list of published articles:
 12. [6 Simple Ways to Generate Dummy Data for Your Windows Apps](https://blogs.embarcadero.com/6-simple-ways-to-generate-dummy-data-for-your-windows-apps/)
   
 13. [Hands-On Bioinformatics With These 6 Powerful Python Libs](https://pythongui.org/hands-on-bioinformatics-with-these-6-powerful-python-libs/)
+  
+14. [Build Powerful Windows GUI Apps Using Python And These 5 REST APIs](https://pythongui.org/build-powerful-windows-gui-apps-using-python-and-these-5-rest-apis/)
+  
+15. [Learn To Build Python GUI For These Powerful REST Services](https://pythongui.org/learn-to-build-python-gui-for-these-powerful-rest-services/)
+
+16. [Learn To Build A GUI For These 10 Ultimate Python AI Libraries](https://pythongui.org/learn-to-build-a-gui-for-these-10-ultimate-python-ai-libraries/) 
 
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi) and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
