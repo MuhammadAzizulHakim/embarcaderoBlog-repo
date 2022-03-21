@@ -10,8 +10,10 @@ Here is the list of published articles:
 <p>6. 5 Ways To Use Computer Vision In Your Windows Apps (https://blogs.embarcadero.com/5-ways-to-use-computer-vision-in-your-windows-apps/)
 <p>7. 5 EASY Ways To Integrate Image Processing In Your Apps (https://blogs.embarcadero.com/5-easy-ways-to-integrate-image-processing-in-your-apps/) 
 <p>8. Perform Ultra-Fast Time Series Analysis To Empower Your AppsPerform Ultra-Fast Time Series Analysis To Empower Your Apps (https://blogs.embarcadero.com/perform-ultra-fast-time-series-analysis-to-empower-your-apps/)
-<p>9. 5 Powerful Cryptography Libraries To Enhance Your App’s Security! (https://blogs.embarcadero.com/5-powerful-cryptography-libraries-to-enhance-your-apps-security/)
-<p>10. 6 Easy Ways to Connect to the Top Databases You Should Know (https://blogs.embarcadero.com/6-easy-ways-to-connect-to-the-top-databases-you-should-know/)
+
+9. [5 Powerful Cryptography Libraries To Enhance Your App’s Security!](https://blogs.embarcadero.com/5-powerful-cryptography-libraries-to-enhance-your-apps-security/)
+
+10. [6 Easy Ways to Connect to the Top Databases You Should Know](https://blogs.embarcadero.com/6-easy-ways-to-connect-to-the-top-databases-you-should-know/)
 
 11. [7 Ways To Interact With Internet Protocols You Should Know](https://blogs.embarcadero.com/7-ways-to-interact-with-internet-protocols-you-should-know/)
 
