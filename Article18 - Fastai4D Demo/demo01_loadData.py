@@ -1,10 +1,12 @@
 from fastai.vision.all import *
 import matplotlib.pyplot as plt
+matplotlib.use("Agg")
 
 set_seed(42)
 
 # Batch size
 bs = 64
+#bs = 16 ## Use this if you have low computational power
 
 # Look at the data
 ## Untar data
@@ -27,4 +29,4 @@ dls.show_batch(max_n=9, figsize=(7,6))
 plt.savefig("fastaiImage.jpg")
 ## Print image annotation vocabularies
 print(dls.vocab)
-len(dls.vocab),dls.c
+print(len(dls.vocab),dls.c)
