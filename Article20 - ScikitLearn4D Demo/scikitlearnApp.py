@@ -8,9 +8,10 @@ X, y = make_classification(n_samples=1000, n_features=2, n_informative=2, n_redu
 
 # Create scatter plot for samples from each class
 for class_value in range(2):
-	# Get row indexes for samples with this class
-	row_ix = where(y == class_value)
-	# Create scatter of these samples
-	plt.scatter(X[row_ix, 0], X[row_ix, 1])
+    # Get row indexes for samples with this class
+    row_ix = where(y == class_value)
+    # Create scatter of these samples
+    plt.scatter(X[row_ix, 0], X[row_ix, 1])
+
 # Show the plot
 plt.savefig("scikitlearnImage.jpg")
