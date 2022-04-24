@@ -37,4 +37,6 @@ Here is the list of published articles:
   
 17. [What Is The Best Web Scraping Library For Development On Windows?](https://blogs.embarcadero.com/what-is-the-best-web-scraping-library-for-development-on-windows/)
 
+18. [How To Make Powerful Data Visualizations With Matplotlib](https://blogs.embarcadero.com/how-to-make-powerful-data-visualizations-with-matplotlib/)
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi) and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
