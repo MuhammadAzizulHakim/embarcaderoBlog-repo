@@ -16,9 +16,9 @@ clusters = unique(yhat)
 
 # create scatter plot for samples from each cluster
 for cluster in clusters:
-	# get row indexes for samples with this cluster
-	row_ix = where(yhat == cluster)
-	# create scatter of these samples
-	plt.scatter(X[row_ix, 0], X[row_ix, 1])
+    # get row indexes for samples with this cluster
+    row_ix = where(yhat == cluster)
+    # create scatter of these samples
+    plt.scatter(X[row_ix, 0], X[row_ix, 1])
 # show the plot
 plt.savefig("scikitlearnImage.jpg")
