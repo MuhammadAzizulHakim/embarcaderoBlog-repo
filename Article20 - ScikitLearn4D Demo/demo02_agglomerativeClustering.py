@@ -22,5 +22,6 @@ for cluster in clusters:
     row_ix = where(yhat == cluster)
     # Create scatter of these samples
     plt.scatter(X[row_ix, 0], X[row_ix, 1])
+
 # Show the plot
 plt.savefig("scikitlearnImage.jpg")
