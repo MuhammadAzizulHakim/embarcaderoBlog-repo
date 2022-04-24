@@ -4,6 +4,7 @@ from numpy import where
 from sklearn.datasets import make_classification
 from sklearn.cluster import OPTICS
 import matplotlib.pyplot as plt
+import matplotlib
 matplotlib.use("Agg")
 
 # Define dataset
@@ -21,5 +22,6 @@ for cluster in clusters:
     row_ix = where(yhat == cluster)
     # create scatter of these samples
     plt.scatter(X[row_ix, 0], X[row_ix, 1])
+
 # Show the plot
 plt.savefig("scikitlearnImage.jpg")
