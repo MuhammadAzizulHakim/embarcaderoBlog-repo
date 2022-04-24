@@ -4,6 +4,7 @@ from numpy import where
 from sklearn.datasets import make_classification
 from sklearn.mixture import GaussianMixture
 import matplotlib.pyplot as plt
+import matplotlib
 matplotlib.use("Agg")
 
 # Define dataset
