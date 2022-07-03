@@ -39,4 +39,8 @@ Here is the list of published articles:
 
 18. [How To Make Powerful Data Visualizations With Matplotlib](https://blogs.embarcadero.com/how-to-make-powerful-data-visualizations-with-matplotlib/)
 
+19. [How To Make A State-Of-The-Art Deep Learning App With Fastai](https://blogs.embarcadero.com/how-to-make-a-state-of-the-art-deep-learning-app-with-fastai/)
+
+20. [10 Unsupervised Machine Learning Algorithms: What Are They And How To Create Them](https://blogs.embarcadero.com/10-unsupervised-machine-learning-algorithms-what-are-they-and-how-to-create-them/)
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi) and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
