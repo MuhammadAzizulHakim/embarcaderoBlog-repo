@@ -48,5 +48,3 @@ Here is the list of published articles:
 22. [Build The Ultimate GUI For Pandas To Perform Complex Data Analysis](https://blogs.embarcadero.com/ultimate-guide-for-building-gui-for-pandas-to-perform-complex-data-analysis/)
 
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi) and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xvvxgypmqcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
