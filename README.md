@@ -45,4 +45,6 @@ Here is the list of published articles:
 
 21. [What Is The Best Graphs And Network Visualization Tool On Windows?](https://blogs.embarcadero.com/what-is-the-best-graphs-and-network-visualization-tool-on-windows/)
 
+22. [Build The Ultimate GUI For Pandas To Perform Complex Data Analysis](https://blogs.embarcadero.com/ultimate-guide-for-building-gui-for-pandas-to-perform-complex-data-analysis/)
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi) and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
