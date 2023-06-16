@@ -3,23 +3,23 @@ This is a code repository for my articles on [blogs.embarcadero.com](https://blo
 <p>
 Here is the list of published articles:
 
-1. [Machine Learning: 5 Ways To Use ML in your Windows Apps](https://blogs.embarcadero.com/machine-learning-5-ways-to-use-ml-in-your-windows-apps/)
+01. [Machine Learning: 5 Ways To Use ML in your Windows Apps](https://blogs.embarcadero.com/machine-learning-5-ways-to-use-ml-in-your-windows-apps/)
 
-2. [Natural Language Processing: 5 Ways To Use NLP In Your Windows Apps](https://blogs.embarcadero.com/natural-language-processing-5-ways-to-use-nlp-in-your-windows-apps/)
+02. [Natural Language Processing: 5 Ways To Use NLP In Your Windows Apps](https://blogs.embarcadero.com/natural-language-processing-5-ways-to-use-nlp-in-your-windows-apps/)
 
-3. [Data Visualization: 5 Ways To Be An Enterprise-Grade Master!](https://blogs.embarcadero.com/data-visualization-5-ways-to-be-an-enterprise-grade-master/) 
+03. [Data Visualization: 5 Ways To Be An Enterprise-Grade Master!](https://blogs.embarcadero.com/data-visualization-5-ways-to-be-an-enterprise-grade-master/) 
 
-4. [6 Ways To Rapidly Collect Massive Datasets in your App](https://blogs.embarcadero.com/web-scraping-6-ways-to-rapidly-collect-massive-datasets-in-your-windows-apps/)
+04. [6 Ways To Rapidly Collect Massive Datasets in your App](https://blogs.embarcadero.com/web-scraping-6-ways-to-rapidly-collect-massive-datasets-in-your-windows-apps/)
 
-5. [Powerful Advanced Scientific Computing – it’s easy!](https://blogs.embarcadero.com/6-ways-to-integrate-advanced-scientific-computing-in-your-apps/)
+05. [Powerful Advanced Scientific Computing – it’s easy!](https://blogs.embarcadero.com/6-ways-to-integrate-advanced-scientific-computing-in-your-apps/)
 
-6. [5 Ways To Use Computer Vision In Your Windows Apps](https://blogs.embarcadero.com/5-ways-to-use-computer-vision-in-your-windows-apps/)
+06. [5 Ways To Use Computer Vision In Your Windows Apps](https://blogs.embarcadero.com/5-ways-to-use-computer-vision-in-your-windows-apps/)
 
-7. [5 EASY Ways To Integrate Image Processing In Your Apps](https://blogs.embarcadero.com/5-easy-ways-to-integrate-image-processing-in-your-apps/) 
+07. [5 EASY Ways To Integrate Image Processing In Your Apps](https://blogs.embarcadero.com/5-easy-ways-to-integrate-image-processing-in-your-apps/) 
 
-8. [Perform Ultra-Fast Time Series Analysis To Empower Your AppsPerform Ultra-Fast Time Series Analysis To Empower Your Apps](https://blogs.embarcadero.com/perform-ultra-fast-time-series-analysis-to-empower-your-apps/)
+08. [Perform Ultra-Fast Time Series Analysis To Empower Your AppsPerform Ultra-Fast Time Series Analysis To Empower Your Apps](https://blogs.embarcadero.com/perform-ultra-fast-time-series-analysis-to-empower-your-apps/)
 
-9. [5 Powerful Cryptography Libraries To Enhance Your App’s Security!](https://blogs.embarcadero.com/5-powerful-cryptography-libraries-to-enhance-your-apps-security/)
+09. [5 Powerful Cryptography Libraries To Enhance Your App’s Security!](https://blogs.embarcadero.com/5-powerful-cryptography-libraries-to-enhance-your-apps-security/)
 
 10. [6 Easy Ways to Connect to the Top Databases You Should Know](https://blogs.embarcadero.com/6-easy-ways-to-connect-to-the-top-databases-you-should-know/)
 
