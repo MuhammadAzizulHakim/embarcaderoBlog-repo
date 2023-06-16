@@ -3,7 +3,7 @@ This is a code repository for my articles on [blogs.embarcadero.com](https://blo
 <p>
 Here is the list of published articles:
 
-'01. [Machine Learning: 5 Ways To Use ML in your Windows Apps](https://blogs.embarcadero.com/machine-learning-5-ways-to-use-ml-in-your-windows-apps/)
+01. [Machine Learning: 5 Ways To Use ML in your Windows Apps](https://blogs.embarcadero.com/machine-learning-5-ways-to-use-ml-in-your-windows-apps/)
 
 02. [Natural Language Processing: 5 Ways To Use NLP In Your Windows Apps](https://blogs.embarcadero.com/natural-language-processing-5-ways-to-use-nlp-in-your-windows-apps/)
 
