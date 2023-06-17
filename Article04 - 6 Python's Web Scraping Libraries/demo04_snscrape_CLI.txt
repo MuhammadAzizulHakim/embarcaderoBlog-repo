@@ -1,0 +1,2 @@
+# Run this command on your command prompt to scrape all the tweets by @EmbarcaderoTech
+snscrape twitter-user EmbarcaderoTech > twitter-@EmbarcaderoTech.txt
