@@ -1,7 +1,7 @@
-# blogs.embarcadero.com Repo
-This is a code repository for my articles on [blogs.embarcadero.com](https://blogs.embarcadero.com/), it mostly about implementing Python4Delphi combined with most powerful and popular Python libraries.
+# Intermediate to Advanced Python Articles Repository
+This repository contains code and resources for my series of articles that were published on [blogs.embarcadero.com](https://blogs.embarcadero.com/author/hmazizul/) and [pythongui.org](https://pythongui.org/author/hmazizul/). The focus of these articles is on implementing Python4Delphi in combination with powerful and popular Python libraries for various use cases.
 <p>
-Here is the list of published articles:
+## Published articles
 
 01. [Machine Learning: 5 Ways To Use ML in your Windows Apps](https://blogs.embarcadero.com/machine-learning-5-ways-to-use-ml-in-your-windows-apps/)
 
