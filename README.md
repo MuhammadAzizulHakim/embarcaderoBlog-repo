@@ -2,7 +2,7 @@
 This repository contains code and resources for my series of articles that were published on [blogs.embarcadero.com](https://blogs.embarcadero.com/author/hmazizul/) and [pythongui.org](https://pythongui.org/author/hmazizul/). The focus of these articles is on implementing Python4Delphi in combination with powerful and popular Python libraries for various use cases.
 <p>
 <h2>Published articles</h2>
-<h3>Implementing integration between Python4Delphi and popular Python libraries:</h3>
+<h3>Implementing integration between Python4Delphi and popular Python libraries</h3>
 
 01. [Machine Learning: 5 Ways To Use ML in your Windows Apps](https://blogs.embarcadero.com/machine-learning-5-ways-to-use-ml-in-your-windows-apps/)
 
