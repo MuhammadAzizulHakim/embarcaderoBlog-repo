@@ -51,4 +51,4 @@ This repository contains code and resources for my series of articles that were 
 The repository is organized into folders, with each folder corresponding to a specific article. Within each folder, you will find the relevant code and resources associated with that article.
 
 <h2>Sponsorship</h2>
-This repository is proudly sponsored by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi) and powered by [Python4Delphi](https://github.com/pyscripter/python4delphi) & [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python) library. We appreciate their support in making these articles and resources available to the community.
+This repository is proudly sponsored by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi) and powered by [Python4Delphi](https://github.com/pyscripter/python4delphi/) & [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python/) library. We appreciate their support in making these articles and resources available to the community.
