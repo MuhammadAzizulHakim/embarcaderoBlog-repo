@@ -2,6 +2,7 @@
 This repository contains code and resources for my series of articles that were published on [blogs.embarcadero.com](https://blogs.embarcadero.com/author/hmazizul/) and [pythongui.org](https://pythongui.org/author/hmazizul/). The focus of these articles is on implementing Python4Delphi in combination with powerful and popular Python libraries for various use cases.
 <p>
 <h2>Published articles</h2>
+<h3>Implementing integration between Python4Delphi and popular Python libraries:</h3>
 
 01. [Machine Learning: 5 Ways To Use ML in your Windows Apps](https://blogs.embarcadero.com/machine-learning-5-ways-to-use-ml-in-your-windows-apps/)
 
@@ -34,6 +35,8 @@ This repository contains code and resources for my series of articles that were 
 15. [Learn To Build Python GUI For These Powerful REST Services](https://pythongui.org/learn-to-build-python-gui-for-these-powerful-rest-services/)
 
 16. [Learn To Build A GUI For These 10 Ultimate Python AI Libraries](https://pythongui.org/learn-to-build-a-gui-for-these-10-ultimate-python-ai-libraries/) 
+
+<h3>Development of new Python4Delphi GUI prototypes</h3>
   
 17. [What Is The Best Web Scraping Library For Development On Windows?](https://blogs.embarcadero.com/what-is-the-best-web-scraping-library-for-development-on-windows/)
 
