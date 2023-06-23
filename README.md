@@ -47,4 +47,8 @@ This repository contains code and resources for my series of articles that were 
 
 22. [Build The Ultimate GUI For Pandas To Perform Complex Data Analysis](https://blogs.embarcadero.com/ultimate-guide-for-building-gui-for-pandas-to-perform-complex-data-analysis/)
 
-Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi) and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
+<h2>Repository structure</h2>
+The repository is organized into folders, with each folder corresponding to a specific article. Within each folder, you will find the relevant code and resources associated with that article.
+
+<h2>Sponsorship</h2>
+This repository is proudly sponsored by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi) and powered by [Python4Delphi](https://github.com/pyscripter/python4delphi) & [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python) library. We appreciate their support in making these articles and resources available to the community.
