@@ -50,6 +50,21 @@ This repository contains code and resources for my series of articles that were 
 
 22. [Build The Ultimate GUI For Pandas To Perform Complex Data Analysis](https://blogs.embarcadero.com/ultimate-guide-for-building-gui-for-pandas-to-perform-complex-data-analysis/)
 
+<h3>Intermediate to advanced Python topics that performed well inside PyScripter IDE</h3>
+<h4>Profiling Python code</h4>
+23. The Super Short Guide To Built-In Python Profiling Tools
+24. How To Add Python Profiling Tools Into Machine Learning Code
+<h4>Testing Python code</h4>
+25. The Comprehensive Guide To Built-In Python Testing Tools
+<h4>Testing Machine Learning code</h4>
+26. How To Add Python Testing Tools Into Machine Learning Code: Testing NumPy
+27. How To Add Python Testing Tools Into Pandas Machine Learning Code
+<h4>Data Visualization</h4>
+28. What Is The Best Python Graph Tool? graph-tool vs NetworkX
+<h4>Deep Learning</h4>
+29. Unlock the Power of Python for Deep Learning with Convolutional Neural Networks
+30. Unlock the Power of Python for Deep Learning with Recurrent Neural Networks
+
 <h2>Repository structure</h2>
 The repository is organized into folders, with each folder corresponding to a specific article. Within each folder, you will find the relevant code and resources associated with that article.
 
