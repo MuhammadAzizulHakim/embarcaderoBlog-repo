@@ -65,12 +65,17 @@ This repository contains code and resources for my series of articles that were 
 
 26. [How To Add Python Testing Tools Into Machine Learning Code: Testing NumPy](https://pythongui.org/how-to-add-python-testing-tools-into-machine-learning-code-testing-numpy/)
 
-27. How To Add Python Testing Tools Into Pandas Machine Learning Code
+27. [How To Add Python Testing Tools Into Pandas Machine Learning Code](https://pythongui.org/how-to-add-python-testing-tools-into-pandas-machine-learning-code/)
+
 <h4>Data Visualization</h4>
-28. What Is The Best Python Graph Tool? graph-tool vs NetworkX
+
+28. [What Is The Best Python Graph Tool? graph-tool vs NetworkX](https://pythongui.org/what-is-the-best-python-graph-tool-graph-tool-vs-networkx/)
+
 <h4>Deep Learning</h4>
-29. Unlock the Power of Python for Deep Learning with Convolutional Neural Networks
-30. Unlock the Power of Python for Deep Learning with Recurrent Neural Networks
+
+29. [Unlock the Power of Python for Deep Learning with Convolutional Neural Networks](https://pythongui.org/unlock-the-power-of-python-for-deep-learning-with-convolutional-neural-networks/)
+
+30. [Unlock the Power of Python for Deep Learning with Recurrent Neural Networks](https://pythongui.org/unlock-the-power-of-python-for-deep-learning-with-recurrent-neural-networks/)
 
 <h2>Repository structure</h2>
 The repository is organized into folders, with each folder corresponding to a specific article. Within each folder, you will find the relevant code and resources associated with that article.
