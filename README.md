@@ -52,12 +52,19 @@ This repository contains code and resources for my series of articles that were 
 
 <h3>Intermediate to advanced Python topics that performed well inside PyScripter IDE</h3>
 <h4>Profiling Python code</h4>
-23. The Super Short Guide To Built-In Python Profiling Tools
-24. How To Add Python Profiling Tools Into Machine Learning Code
+
+23. [The Super Short Guide To Built-In Python Profiling Tools](https://pythongui.org/the-super-short-guide-to-built-in-python-profiling-tools/)
+
+24. [How To Add Python Profiling Tools Into Machine Learning Code](https://pythongui.org/how-to-add-python-profiling-tools-into-machine-learning-code/)
+
 <h4>Testing Python code</h4>
-25. The Comprehensive Guide To Built-In Python Testing Tools
+
+25. [The Comprehensive Guide To Built-In Python Testing Tools](https://pythongui.org/the-comprehensive-guide-to-built-in-python-testing-tools/)
+
 <h4>Testing Machine Learning code</h4>
-26. How To Add Python Testing Tools Into Machine Learning Code: Testing NumPy
+
+26. [How To Add Python Testing Tools Into Machine Learning Code: Testing NumPy](https://pythongui.org/how-to-add-python-testing-tools-into-machine-learning-code-testing-numpy/)
+
 27. How To Add Python Testing Tools Into Pandas Machine Learning Code
 <h4>Data Visualization</h4>
 28. What Is The Best Python Graph Tool? graph-tool vs NetworkX
