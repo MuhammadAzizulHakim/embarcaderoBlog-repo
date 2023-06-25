@@ -67,44 +67,44 @@ This repository contains code and resources for my series of articles that were 
 
 28. [Python For Delphi VCL vs PyQT Comparison](https://pythongui.org/python-for-delphi-vcl-vs-pyqt-comparison/)
 
-07. Python For Delphi VCL vs PySide GUI Comparison Guide
+29. [Python For Delphi VCL vs PySide GUI Comparison Guide](https://pythongui.org/python-for-delphi-vcl-vs-pyside-gui-comparison-guide/)
 
-08. Compare Python For Delphi VCL vs Dear PyGUI For Windows Apps
+30. [Compare Python For Delphi VCL vs Dear PyGUI For Windows Apps](https://pythongui.org/compare-python-for-delphi-vcl-vs-dear-pygui-for-windows-apps/)
 
-09. Tutorial: Python For Delphi VCL vs Pyforms GUI
+31. [Tutorial: Python For Delphi VCL vs Pyforms GUI](https://pythongui.org/tutorial-python-for-delphi-vcl-vs-pyforms-gui/)
 
-10. Python GUI: Python For Delphi VCL vs wxPython
+32. [Python GUI: Python For Delphi VCL vs wxPython](https://pythongui.org/python-gui-python-for-delphi-vcl-vs-wxpython/)
 
-11. Powerful Python For Delphi VCL vs Python GUI Generator: PAGE
+33. [Powerful Python For Delphi VCL vs Python GUI Generator: PAGE](https://pythongui.org/powerful-python-for-delphi-vcl-vs-python-gui-generator-page/)
 
-12. Python For Delphi VCL vs Python GUI Generator: wxGlade
+34. [Python For Delphi VCL vs Python GUI Generator: wxGlade](https://pythongui.org/python-for-delphi-vcl-vs-python-gui-generator-wxglade/)
 
 <h3>Intermediate to advanced Python topics that performed well inside PyScripter IDE</h3>
 <h4>Profiling Python code</h4>
 
-13. [The Super Short Guide To Built-In Python Profiling Tools](https://pythongui.org/the-super-short-guide-to-built-in-python-profiling-tools/)
+35. [The Super Short Guide To Built-In Python Profiling Tools](https://pythongui.org/the-super-short-guide-to-built-in-python-profiling-tools/)
 
-14. [How To Add Python Profiling Tools Into Machine Learning Code](https://pythongui.org/how-to-add-python-profiling-tools-into-machine-learning-code/)
+36. [How To Add Python Profiling Tools Into Machine Learning Code](https://pythongui.org/how-to-add-python-profiling-tools-into-machine-learning-code/)
 
 <h4>Testing Python code</h4>
 
-15. [The Comprehensive Guide To Built-In Python Testing Tools](https://pythongui.org/the-comprehensive-guide-to-built-in-python-testing-tools/)
+37. [The Comprehensive Guide To Built-In Python Testing Tools](https://pythongui.org/the-comprehensive-guide-to-built-in-python-testing-tools/)
 
 <h4>Testing Machine Learning code</h4>
 
-16. [How To Add Python Testing Tools Into Machine Learning Code: Testing NumPy](https://pythongui.org/how-to-add-python-testing-tools-into-machine-learning-code-testing-numpy/)
+38. [How To Add Python Testing Tools Into Machine Learning Code: Testing NumPy](https://pythongui.org/how-to-add-python-testing-tools-into-machine-learning-code-testing-numpy/)
 
-17. [How To Add Python Testing Tools Into Pandas Machine Learning Code](https://pythongui.org/how-to-add-python-testing-tools-into-pandas-machine-learning-code/)
+39. [How To Add Python Testing Tools Into Pandas Machine Learning Code](https://pythongui.org/how-to-add-python-testing-tools-into-pandas-machine-learning-code/)
 
 <h4>Data Visualization</h4>
 
-18. [What Is The Best Python Graph Tool? graph-tool vs NetworkX](https://pythongui.org/what-is-the-best-python-graph-tool-graph-tool-vs-networkx/)
+40. [What Is The Best Python Graph Tool? graph-tool vs NetworkX](https://pythongui.org/what-is-the-best-python-graph-tool-graph-tool-vs-networkx/)
 
 <h4>Deep Learning</h4>
 
-19. [Unlock the Power of Python for Deep Learning with Convolutional Neural Networks](https://pythongui.org/unlock-the-power-of-python-for-deep-learning-with-convolutional-neural-networks/)
+41. [Unlock the Power of Python for Deep Learning with Convolutional Neural Networks](https://pythongui.org/unlock-the-power-of-python-for-deep-learning-with-convolutional-neural-networks/)
 
-20. [Unlock the Power of Python for Deep Learning with Recurrent Neural Networks](https://pythongui.org/unlock-the-power-of-python-for-deep-learning-with-recurrent-neural-networks/)
+42. [Unlock the Power of Python for Deep Learning with Recurrent Neural Networks](https://pythongui.org/unlock-the-power-of-python-for-deep-learning-with-recurrent-neural-networks/)
 
 <h2>Repository structure</h2>
 The repository is organized into folders, with each folder corresponding to a specific article. Within each folder, you will find the relevant code and resources associated with that article.
