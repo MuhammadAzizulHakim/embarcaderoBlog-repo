@@ -53,19 +53,19 @@ This repository contains code and resources for my series of articles that were 
 <h3>Embarcadero Python products comparisons</h3>
 <h4>Product comparisons</h4>
 
-01. [6 Best Python GUI Frameworks in December 2021](https://pythongui.org/6-best-python-gui-frameworks-in-2021/)
+23. [6 Best Python GUI Frameworks in December 2021](https://pythongui.org/6-best-python-gui-frameworks-in-2021/)
 
-02. [Top 5 Ways To Build A Python Desktop App in 2021](https://pythongui.org/top-5-ways-to-build-a-python-desktop-app-in-2021/)
+24. [Top 5 Ways To Build A Python Desktop App in 2021](https://pythongui.org/top-5-ways-to-build-a-python-desktop-app-in-2021/)
 
-03. [Top 6 Python IDEs in 2021](https://pythongui.org/top-6-python-ides-in-2021/)
+25. [Top 6 Python IDEs in 2021](https://pythongui.org/top-6-python-ides-in-2021/)
 
 <h4>Python GUI builder comparisons</h4>
 
-04. Comparison: Python For Delphi VCL vs PySimpleGUI
+26. [Comparison: Python For Delphi VCL vs PySimpleGUI](https://pythongui.org/comparison-python-for-delphi-vcl-vs-pysimplegui/)
 
-05. Python For Delphi VCL vs Tkinter
+27. [Python For Delphi VCL vs Tkinter](https://pythongui.org/python-for-delphi-vcl-vs-tkinter/)
 
-06. Python For Delphi VCL vs PyQT Comparison
+28. [Python For Delphi VCL vs PyQT Comparison](https://pythongui.org/python-for-delphi-vcl-vs-pyqt-comparison/)
 
 07. Python For Delphi VCL vs PySide GUI Comparison Guide
 
