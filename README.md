@@ -50,14 +50,14 @@ This repository contains code and resources for my series of articles that were 
 
 22. [Build The Ultimate GUI For Pandas To Perform Complex Data Analysis](https://blogs.embarcadero.com/ultimate-guide-for-building-gui-for-pandas-to-perform-complex-data-analysis/)
 
-<h3>Intermediate to advanced Python topics that performed well inside PyScripter IDE</h3>
+<h3>Embarcadero Python products comparisons</h3>
 <h4>Product comparisons</h4>
 
-[01. 6 Best Python GUI Frameworks in December 2021](https://pythongui.org/6-best-python-gui-frameworks-in-2021/)
+01. [6 Best Python GUI Frameworks in December 2021](https://pythongui.org/6-best-python-gui-frameworks-in-2021/)
 
-[02. Top 5 Ways To Build A Python Desktop App in 2021](https://pythongui.org/top-5-ways-to-build-a-python-desktop-app-in-2021/)
+02. [Top 5 Ways To Build A Python Desktop App in 2021](https://pythongui.org/top-5-ways-to-build-a-python-desktop-app-in-2021/)
 
-[03. Top 6 Python IDEs in 2021](https://pythongui.org/top-6-python-ides-in-2021/)
+03. [Top 6 Python IDEs in 2021](https://pythongui.org/top-6-python-ides-in-2021/)
 
 <h4>Python GUI builder comparisons</h4>
 
@@ -79,6 +79,7 @@ This repository contains code and resources for my series of articles that were 
 
 12. Python For Delphi VCL vs Python GUI Generator: wxGlade
 
+<h3>Intermediate to advanced Python topics that performed well inside PyScripter IDE</h3>
 <h4>Profiling Python code</h4>
 
 13. [The Super Short Guide To Built-In Python Profiling Tools](https://pythongui.org/the-super-short-guide-to-built-in-python-profiling-tools/)
