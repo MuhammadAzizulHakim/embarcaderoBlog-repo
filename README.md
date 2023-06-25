@@ -51,31 +51,46 @@ This repository contains code and resources for my series of articles that were 
 22. [Build The Ultimate GUI For Pandas To Perform Complex Data Analysis](https://blogs.embarcadero.com/ultimate-guide-for-building-gui-for-pandas-to-perform-complex-data-analysis/)
 
 <h3>Intermediate to advanced Python topics that performed well inside PyScripter IDE</h3>
+<h4>Product comparisons</h4>
+01. 6 Best Python GUI Frameworks in December 2021
+02. Top 5 Ways To Build A Python Desktop App in 2021
+03. Top 6 Python IDEs in 2021
+<h4>Python GUI builder comparisons</h4>
+04. Comparison: Python For Delphi VCL vs PySimpleGUI
+05. Python For Delphi VCL vs Tkinter
+06. Python For Delphi VCL vs PyQT Comparison
+07. Python For Delphi VCL vs PySide GUI Comparison Guide
+08. Compare Python For Delphi VCL vs Dear PyGUI For Windows Apps
+09. Tutorial: Python For Delphi VCL vs Pyforms GUI
+10. Python GUI: Python For Delphi VCL vs wxPython
+11. Powerful Python For Delphi VCL vs Python GUI Generator: PAGE
+12. Python For Delphi VCL vs Python GUI Generator: wxGlade
+
 <h4>Profiling Python code</h4>
 
-23. [The Super Short Guide To Built-In Python Profiling Tools](https://pythongui.org/the-super-short-guide-to-built-in-python-profiling-tools/)
+13. [The Super Short Guide To Built-In Python Profiling Tools](https://pythongui.org/the-super-short-guide-to-built-in-python-profiling-tools/)
 
-24. [How To Add Python Profiling Tools Into Machine Learning Code](https://pythongui.org/how-to-add-python-profiling-tools-into-machine-learning-code/)
+14. [How To Add Python Profiling Tools Into Machine Learning Code](https://pythongui.org/how-to-add-python-profiling-tools-into-machine-learning-code/)
 
 <h4>Testing Python code</h4>
 
-25. [The Comprehensive Guide To Built-In Python Testing Tools](https://pythongui.org/the-comprehensive-guide-to-built-in-python-testing-tools/)
+15. [The Comprehensive Guide To Built-In Python Testing Tools](https://pythongui.org/the-comprehensive-guide-to-built-in-python-testing-tools/)
 
 <h4>Testing Machine Learning code</h4>
 
-26. [How To Add Python Testing Tools Into Machine Learning Code: Testing NumPy](https://pythongui.org/how-to-add-python-testing-tools-into-machine-learning-code-testing-numpy/)
+16. [How To Add Python Testing Tools Into Machine Learning Code: Testing NumPy](https://pythongui.org/how-to-add-python-testing-tools-into-machine-learning-code-testing-numpy/)
 
-27. [How To Add Python Testing Tools Into Pandas Machine Learning Code](https://pythongui.org/how-to-add-python-testing-tools-into-pandas-machine-learning-code/)
+17. [How To Add Python Testing Tools Into Pandas Machine Learning Code](https://pythongui.org/how-to-add-python-testing-tools-into-pandas-machine-learning-code/)
 
 <h4>Data Visualization</h4>
 
-28. [What Is The Best Python Graph Tool? graph-tool vs NetworkX](https://pythongui.org/what-is-the-best-python-graph-tool-graph-tool-vs-networkx/)
+18. [What Is The Best Python Graph Tool? graph-tool vs NetworkX](https://pythongui.org/what-is-the-best-python-graph-tool-graph-tool-vs-networkx/)
 
 <h4>Deep Learning</h4>
 
-29. [Unlock the Power of Python for Deep Learning with Convolutional Neural Networks](https://pythongui.org/unlock-the-power-of-python-for-deep-learning-with-convolutional-neural-networks/)
+19. [Unlock the Power of Python for Deep Learning with Convolutional Neural Networks](https://pythongui.org/unlock-the-power-of-python-for-deep-learning-with-convolutional-neural-networks/)
 
-30. [Unlock the Power of Python for Deep Learning with Recurrent Neural Networks](https://pythongui.org/unlock-the-power-of-python-for-deep-learning-with-recurrent-neural-networks/)
+20. [Unlock the Power of Python for Deep Learning with Recurrent Neural Networks](https://pythongui.org/unlock-the-power-of-python-for-deep-learning-with-recurrent-neural-networks/)
 
 <h2>Repository structure</h2>
 The repository is organized into folders, with each folder corresponding to a specific article. Within each folder, you will find the relevant code and resources associated with that article.
