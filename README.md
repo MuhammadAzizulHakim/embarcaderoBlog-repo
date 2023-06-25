@@ -53,17 +53,27 @@ This repository contains code and resources for my series of articles that were 
 <h3>Intermediate to advanced Python topics that performed well inside PyScripter IDE</h3>
 <h4>Product comparisons</h4>
 01. 6 Best Python GUI Frameworks in December 2021
+
 02. Top 5 Ways To Build A Python Desktop App in 2021
+
 03. Top 6 Python IDEs in 2021
 <h4>Python GUI builder comparisons</h4>
 04. Comparison: Python For Delphi VCL vs PySimpleGUI
+
 05. Python For Delphi VCL vs Tkinter
+
 06. Python For Delphi VCL vs PyQT Comparison
+
 07. Python For Delphi VCL vs PySide GUI Comparison Guide
+
 08. Compare Python For Delphi VCL vs Dear PyGUI For Windows Apps
+
 09. Tutorial: Python For Delphi VCL vs Pyforms GUI
+
 10. Python GUI: Python For Delphi VCL vs wxPython
+
 11. Powerful Python For Delphi VCL vs Python GUI Generator: PAGE
+
 12. Python For Delphi VCL vs Python GUI Generator: wxGlade
 
 <h4>Profiling Python code</h4>
