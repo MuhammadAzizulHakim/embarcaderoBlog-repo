@@ -1,0 +1,17 @@
+docker pull tiagopeixoto/graph-tool
+
+conda create --name gt -c conda-forge graph-tool
+
+conda activate gt
+
+conda install -n gt -c conda-forge ipython jupyter
+
+docker run -it -u user -w /home/user tiagopeixoto/graph-tool ipython
+
+conda activate gt
+
+jupyter notebook
+
+docker export container_name > contents.tar
+
+docker export modest_knuth > contents.tar
