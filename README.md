@@ -106,6 +106,8 @@ This repository contains code and resources for my series of articles that were 
 
 42. [Unlock the Power of Python for Deep Learning with Recurrent Neural Networks](https://pythongui.org/unlock-the-power-of-python-for-deep-learning-with-recurrent-neural-networks/)
 
+43. [Unlock the Power of Python for Deep Learning with Long-Short-Term Memory Networks](https://pythongui.org/unlock-the-power-of-python-for-deep-learning-with-long-short-term-memory-networks/)
+
 <h2>Repository structure</h2>
 The repository is organized into folders, with each folder corresponding to a specific article. Within each folder, you will find the relevant code and resources associated with that article.
 
