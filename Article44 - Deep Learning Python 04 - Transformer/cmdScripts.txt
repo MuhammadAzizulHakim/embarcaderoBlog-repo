@@ -33,3 +33,24 @@ Model prompt >>> How to cook delicious eggs?
 
 Model prompt >>> Please continue the following paragraph: "In a shocking finding, scientist discovered a herd of unicorns living in a remote, previously unexplored valley, in the Andes Mountains. Even more surprising to the researchers was the fact that the unicorns spoke perfect English.
 
+python src/interactive_conditional_samples.py --model_name=345M
+
+python download_model.py 124M
+
+python encode.py lyrics.txt lyrics.npz
+
+python train.py --dataset lyrics.npz --batch_size 2 --learning_rate 0.0001
+
+python train.py --dataset lyric.npz
+
+python train.py --dataset lyrics.npz --batch_size 2 --learning_rate 0.0001
+
+python generate_unconditional_samples.py --model_name lyric
+
+python generate_unconditional_samples.py --temperature 0.8 --top_k 40 --model_name lyric
+
+python interactive_conditional_samples.py --temperature 0.8 --top_k 40 --model_name lyric
+
+Model prompt >>> Write me a lyrics in the style of Dream Theater band
+
+Model prompt >>> Please continue the following lyrics: "Somewhere like a scene from a memory"
