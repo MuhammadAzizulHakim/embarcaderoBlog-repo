@@ -108,6 +108,8 @@ This repository contains code and resources for my series of articles that were 
 
 43. [Unlock the Power of Python for Deep Learning with Long-Short-Term Memory Networks](https://pythongui.org/unlock-the-power-of-python-for-deep-learning-with-long-short-term-memory-networks/)
 
+44. [Unlock the Power of Python for Deep Learning with Transformer Architecture – The Engine Behind ChatGPT](https://pythongui.org/unlock-the-power-of-python-for-deep-learning-with-transformer-architecture-the-engine-behind-chatgpt/)
+
 <h2>Repository structure</h2>
 The repository is organized into folders, with each folder corresponding to a specific article. Within each folder, you will find the relevant code and resources associated with that article.
 
