@@ -1,0 +1,21 @@
+pip install snakeviz
+
+python -m cProfile ols.py
+
+python -m cProfile hillclimb.py
+
+python -m cProfile -s ncalls ols.py
+
+python -m cProfile -s ncalls hillclimb.py
+
+python -m cProfile -s tottime ols.py
+
+python -m cProfile -s tottime hillclimb.py
+
+python -m cProfile -o statsOls.dump ols.py
+
+python -m cProfile -o statsHillclimb.dump hillclimb.py
+
+snakeviz statsOls.dump
+
+snakeviz statsHillclimb.dump
