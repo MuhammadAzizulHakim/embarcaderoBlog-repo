@@ -1,0 +1,9 @@
+pip install snakeviz
+
+python -m cProfile scrapyApp.py
+
+python -m cProfile -o stats.dump scrapyApp.py
+
+python -m cProfile scrapyApp.py > stats.txt
+
+snakeviz stats.dump
