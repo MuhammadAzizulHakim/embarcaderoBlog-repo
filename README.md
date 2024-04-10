@@ -110,6 +110,8 @@ This repository contains code and resources for my series of articles that were 
 
 44. [Unlock the Power of Python for Deep Learning with Transformer Architecture – The Engine Behind ChatGPT](https://pythongui.org/unlock-the-power-of-python-for-deep-learning-with-transformer-architecture-the-engine-behind-chatgpt/)
 
+45. [Unlock the Power of Python for Deep Learning with Generative Adversarial Networks (GANs) – The Engine behind DALL-E](https://pythongui.org/unlock-the-power-of-python-for-deep-learning-with-generative-adversarial-networks-gans-the-engine-behind-dall-e/)
+
 <h2>Repository structure</h2>
 The repository is organized into folders, with each folder corresponding to a specific article. Within each folder, you will find the relevant code and resources associated with that article.
 
