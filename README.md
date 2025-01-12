@@ -114,6 +114,8 @@ This repository contains code and resources for my series of articles that were 
 
 46. [Unlock the Power of Python for Deep Learning with Radial Basis Function Networks (RBFNs)](https://pythongui.org/unlock-the-power-of-python-for-deep-learning-with-radial-basis-function-networks-rbfns/)
 
+47. [Unlock the Power of Python for Deep Learning with Diffusion Model – The Engine behind Stable Diffusion](https://pythongui.org/unlock-the-power-of-python-for-deep-learning-with-diffusion-model-the-engine-behind-stable-diffusion/)
+
 <h2>Repository structure</h2>
 The repository is organized into folders, with each folder corresponding to a specific article. Within each folder, you will find the relevant code and resources associated with that article.
 
