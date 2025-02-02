@@ -56,6 +56,11 @@ def show_daily_sales(data):
 
 def show_monthly_sales(data):
     time.sleep(1)
+
+    # Ensure `selected_date` is initialized in session state
+    if "selected_date" not in st.session_state:
+        st.session_state.selected_date = date(2024, 1, 1)  # Default value
+
     selected_date = st.session_state.selected_date
     this_month = selected_date.replace(day=1)
     next_month = (selected_date.replace(day=28) + timedelta(days=4)).replace(day=1)
